@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-printf("Hello git");
+int a = 1;
+printf("Hello git %d", a);
 return 0;
 }
